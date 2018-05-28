@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "to_repo", "to_repo\to_repo.dtproj", "{B307ECA7-79A0-4CF7-BD97-CB0CC7B9501F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B307ECA7-79A0-4CF7-BD97-CB0CC7B9501F}.Development|Default.ActiveCfg = Development
+		{B307ECA7-79A0-4CF7-BD97-CB0CC7B9501F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0059CA1-D5A3-4D45-A63F-881E7291C43C}
+	EndGlobalSection
+EndGlobal
